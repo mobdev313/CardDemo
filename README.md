@@ -1,6 +1,6 @@
 # CardDemo
 Card squeeze demo application written by java in android environment.
-
+It can be used for baccarat game application.
 
 
 ## Screenshots
